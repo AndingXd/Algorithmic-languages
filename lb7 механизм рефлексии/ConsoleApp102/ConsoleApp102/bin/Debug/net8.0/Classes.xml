@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Classes>
+  <Class Name="Animal" Comment="Abstract anymal - ego net" />
+  <Class Name="Cow" Comment="No obstract cow" />
+  <Class Name="Lion" Comment="Lev" />
+  <Class Name="Pig" Comment="svin" />
+  <Class Name="Commentatrobiuterter" Comment="Нет комментария" />
+</Classes>

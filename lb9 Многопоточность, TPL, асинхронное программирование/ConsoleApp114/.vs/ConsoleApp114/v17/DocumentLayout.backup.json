@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0430\\Desktop\\\u0430\u044F\\lb9 \u041C\u043D\u043E\u0433\u043E\u043F\u043E\u0442\u043E\u0447\u043D\u043E\u0441\u0442\u044C, TPL, \u0430\u0441\u0438\u043D\u0445\u0440\u043E\u043D\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\ConsoleApp114\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B64A38E0-DF31-4848-B824-A9AA22D14A89}|ConsoleApp114\\ConsoleApp114.csproj|c:\\users\\\u0430\\desktop\\\u0430\u044F\\lb9 \u043C\u043D\u043E\u0433\u043E\u043F\u043E\u0442\u043E\u0447\u043D\u043E\u0441\u0442\u044C, tpl, \u0430\u0441\u0438\u043D\u0445\u0440\u043E\u043D\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\consoleapp114\\consoleapp114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64A38E0-DF31-4848-B824-A9AA22D14A89}|ConsoleApp114\\ConsoleApp114.csproj|solutionrelative:consoleapp114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0430\\Desktop\\\u0430\u044F\\lb9 \u041C\u043D\u043E\u0433\u043E\u043F\u043E\u0442\u043E\u0447\u043D\u043E\u0441\u0442\u044C, TPL, \u0430\u0441\u0438\u043D\u0445\u0440\u043E\u043D\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\ConsoleApp114\\ConsoleApp114\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp114\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0430\\Desktop\\\u0430\u044F\\lb9 \u041C\u043D\u043E\u0433\u043E\u043F\u043E\u0442\u043E\u0447\u043D\u043E\u0441\u0442\u044C, TPL, \u0430\u0441\u0438\u043D\u0445\u0440\u043E\u043D\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\ConsoleApp114\\ConsoleApp114\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp114\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:27:29.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
